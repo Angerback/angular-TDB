@@ -4,5 +4,5 @@
 	<br>Nombre: {{actor.firstName}}<br>
 	<br>Apellido: {{actor.lastName}}<br>
 	<br>Last Update: {{actor.lastUpdate}}<br>
-	<br><a href="/#/actors" type="button" class="btn btn-default">Volver</a><br>
+	<br><button href="/#/actors" type="button" class="btn btn-default">Volver</button><br>
 </div>
